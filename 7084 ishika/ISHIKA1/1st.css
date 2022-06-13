@@ -1,0 +1,55 @@
+header{
+    margin: 1%;
+    padding:3px;
+    text-align: center;
+    margin-bottom: 3px;
+    background-color: rgb(16, 128, 25); 
+
+}
+h1{
+    font-size: 80px;
+    padding: 5px;
+    
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serifs;
+    color:white;
+    display: inline;
+}
+nav{
+    text-align: center;
+    text-decoration: solid;
+    margin:4px;
+    padding: px;
+    display: block;
+    background-color: rgb(94, 124, 49);
+}
+
+a{
+    color: white;
+    text-align: center;
+    text-decoration: double;
+    display:inline-block; 
+    padding: 2px;
+    font-size: 30px;
+    width: 16%;
+    }
+    a:hover{
+    
+        background-color: rgb(28, 88, 16);
+
+    }
+
+body{
+   background-color: rgb(144, 204, 84);
+    background-image: url(C:\Users\varun chauhan\Desktop\img1.JPG);
+    height: 100%;
+    width: 100%;
+    padding: 0px;
+    margin: 0;
+    background-position: center;
+    
+    width:
+
+}
+    
+
+
